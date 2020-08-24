@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Labels
+title: Test
 parent: UI Components
 nav_order: 8
 ---
 
-# Labels
+# Test
 aaa
